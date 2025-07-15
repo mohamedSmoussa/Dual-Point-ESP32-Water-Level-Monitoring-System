@@ -1,0 +1,290 @@
+Added Component: Designator=C1(CAPPRD500W60D1000H2000)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FR1E102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-FR1E102/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPPRD500W60D1000H2000)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FR1E102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-FR1E102/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPPRD500W60D1000H2000)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FR1E102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-FR1E102/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPPRD500W60D1000H2000)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FR1E102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-FR1E102/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPPRD500W60D1000H2000)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FR1E102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-FR1E102/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FR1E102/Panasonic/view-part/630528/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIOAD1300W80L670D310)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/P6KE6.8CA/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "P6KE6.8CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-15 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/P6KE6.8CA/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIOAD1300W80L670D310)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/P6KE6.8CA/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "P6KE6.8CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-15 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/P6KE6.8CA/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESP(MODULE_ESP32_DEVKIT_V1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Do it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GSM(Sim800L)
+Added Component: Designator=H1(HDR1X15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=H2(HDR1X15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J1(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=L1(TO255P1040X460X1968-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/L7805CV/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L7805CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L7805CV/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2(TO254P1054X470X1955-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM317T/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM317T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM317T/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESAD700W45L350D185)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3-1623927-1/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3-1623927-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3-1623927-1/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESAD700W45L350D185)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3-1623927-1/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3-1623927-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3-1623927-1/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW1(418117170901)
+Add component (AddParameter): Name = "Actuator Type"; Value = "Flat Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Dip Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/418117170901?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/418117170901?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "418117170901"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-DITV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "800g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Non-Switching"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Switching"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Non-Switching"; Value = "50VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Switching"; Value = "24VDC"; VariantName = "[No Variations]"
+Added Component: Designator=U1(XCVR_HC-SR04)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HC-SR04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+4.2V Pin=C4-P
+Added Pin To Net: NetName=+4.2V Pin=C5-P
+Added Pin To Net: NetName=+4.2V Pin=D2-2
+Added Pin To Net: NetName=+4.2V Pin=GSM-2
+Added Pin To Net: NetName=+4.2V Pin=L2-2
+Added Pin To Net: NetName=+4.2V Pin=R1-2
+Added Net: Name=+4.2V
+Added Pin To Net: NetName=+5V Pin=C2-P
+Added Pin To Net: NetName=+5V Pin=D1-2
+Added Pin To Net: NetName=+5V Pin=ESP-30
+Added Pin To Net: NetName=+5V Pin=H2-15
+Added Pin To Net: NetName=+5V Pin=L1-3
+Added Pin To Net: NetName=+5V Pin=U1-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=3V3 Pin=ESP-1
+Added Pin To Net: NetName=3V3 Pin=H1-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=AGND Pin=C1-N
+Added Pin To Net: NetName=AGND Pin=C2-N
+Added Pin To Net: NetName=AGND Pin=C3-N
+Added Pin To Net: NetName=AGND Pin=C4-N
+Added Pin To Net: NetName=AGND Pin=C5-N
+Added Pin To Net: NetName=AGND Pin=D1-1
+Added Pin To Net: NetName=AGND Pin=D2-1
+Added Pin To Net: NetName=AGND Pin=ESP-2
+Added Pin To Net: NetName=AGND Pin=ESP-29
+Added Pin To Net: NetName=AGND Pin=GSM-6
+Added Pin To Net: NetName=AGND Pin=H1-2
+Added Pin To Net: NetName=AGND Pin=H2-14
+Added Pin To Net: NetName=AGND Pin=J1-1
+Added Pin To Net: NetName=AGND Pin=L1-2
+Added Pin To Net: NetName=AGND Pin=R2-1
+Added Pin To Net: NetName=AGND Pin=U1-4
+Added Net: Name=AGND
+Added Pin To Net: NetName=D2 Pin=ESP-4
+Added Pin To Net: NetName=D2 Pin=H1-4
+Added Net: Name=D2
+Added Pin To Net: NetName=D4 Pin=ESP-5
+Added Pin To Net: NetName=D4 Pin=H1-5
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=ESP-8
+Added Pin To Net: NetName=D5 Pin=H1-8
+Added Pin To Net: NetName=D5 Pin=U1-2
+Added Net: Name=D5
+Added Pin To Net: NetName=D12 Pin=ESP-27
+Added Pin To Net: NetName=D12 Pin=H2-12
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=ESP-28
+Added Pin To Net: NetName=D13 Pin=H2-13
+Added Net: Name=D13
+Added Pin To Net: NetName=D14 Pin=ESP-26
+Added Pin To Net: NetName=D14 Pin=H2-11
+Added Net: Name=D14
+Added Pin To Net: NetName=D15 Pin=ESP-3
+Added Pin To Net: NetName=D15 Pin=H1-3
+Added Net: Name=D15
+Added Pin To Net: NetName=D18 Pin=ESP-9
+Added Pin To Net: NetName=D18 Pin=H1-9
+Added Pin To Net: NetName=D18 Pin=U1-3
+Added Net: Name=D18
+Added Pin To Net: NetName=D19 Pin=ESP-10
+Added Pin To Net: NetName=D19 Pin=H1-10
+Added Net: Name=D19
+Added Pin To Net: NetName=D21 Pin=ESP-11
+Added Pin To Net: NetName=D21 Pin=H1-11
+Added Net: Name=D21
+Added Pin To Net: NetName=D22 Pin=ESP-14
+Added Pin To Net: NetName=D22 Pin=GSM-4
+Added Pin To Net: NetName=D22 Pin=H1-14
+Added Net: Name=D22
+Added Pin To Net: NetName=D23 Pin=ESP-15
+Added Pin To Net: NetName=D23 Pin=GSM-5
+Added Pin To Net: NetName=D23 Pin=H1-15
+Added Net: Name=D23
+Added Pin To Net: NetName=D25 Pin=ESP-23
+Added Pin To Net: NetName=D25 Pin=H2-8
+Added Net: Name=D25
+Added Pin To Net: NetName=D26 Pin=ESP-24
+Added Pin To Net: NetName=D26 Pin=H2-9
+Added Net: Name=D26
+Added Pin To Net: NetName=D27 Pin=ESP-25
+Added Pin To Net: NetName=D27 Pin=H2-10
+Added Net: Name=D27
+Added Pin To Net: NetName=D32 Pin=ESP-21
+Added Pin To Net: NetName=D32 Pin=H2-6
+Added Net: Name=D32
+Added Pin To Net: NetName=D33 Pin=ESP-22
+Added Pin To Net: NetName=D33 Pin=H2-7
+Added Net: Name=D33
+Added Pin To Net: NetName=D34 Pin=ESP-19
+Added Pin To Net: NetName=D34 Pin=H2-4
+Added Net: Name=D34
+Added Pin To Net: NetName=D35 Pin=ESP-20
+Added Pin To Net: NetName=D35 Pin=H2-5
+Added Net: Name=D35
+Added Pin To Net: NetName=EN Pin=ESP-16
+Added Pin To Net: NetName=EN Pin=H2-1
+Added Net: Name=EN
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=SW1-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R1-1
+Added Pin To Net: NetName=NetL2_1 Pin=R2-2
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=RX0 Pin=ESP-12
+Added Pin To Net: NetName=RX0 Pin=H1-12
+Added Net: Name=RX0
+Added Pin To Net: NetName=RX2 Pin=ESP-6
+Added Pin To Net: NetName=RX2 Pin=H1-6
+Added Net: Name=RX2
+Added Pin To Net: NetName=TX0 Pin=ESP-13
+Added Pin To Net: NetName=TX0 Pin=H1-13
+Added Net: Name=TX0
+Added Pin To Net: NetName=TX2 Pin=ESP-7
+Added Pin To Net: NetName=TX2 Pin=H1-7
+Added Net: Name=TX2
+Added Pin To Net: NetName=VIN Pin=C1-P
+Added Pin To Net: NetName=VIN Pin=C3-P
+Added Pin To Net: NetName=VIN Pin=L1-1
+Added Pin To Net: NetName=VIN Pin=L2-3
+Added Pin To Net: NetName=VIN Pin=SW1-2
+Added Net: Name=VIN
+Added Pin To Net: NetName=VN Pin=ESP-18
+Added Pin To Net: NetName=VN Pin=H2-3
+Added Net: Name=VN
+Added Pin To Net: NetName=VP Pin=ESP-17
+Added Pin To Net: NetName=VP Pin=H2-2
+Added Net: Name=VP
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets

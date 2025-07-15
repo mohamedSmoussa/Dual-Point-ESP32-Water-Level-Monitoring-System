@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=Cap-Pol-2
+Removed Member From Class: ClassName=Sheet2 Member=Cap-Pol
+Change Component Designator: OldDesignator=Cap-TVS NewDesignator=C2
+Added Component: Designator=C1(CAPPRD500W60D1000H2000)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECEA1HN101U/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ECEA1HN101U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ECEA1HN101U/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECEA1HN101U/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-N
+Change Net Name : Old Net Name=NetESP-32_9 New Net Name=sig echo
+Added Pin To Net: NetName=NetC1_P Pin=C1-P
+Added Pin To Net: NetName=NetC1_P Pin=switch-1
+Added Pin To Net: NetName=NetC1_P Pin=Volt-REG-1
+Added Net: Name=NetC1_P
+Added Member To Class: ClassName=Sheet2 Member=Component C1 ECEA1HN101U

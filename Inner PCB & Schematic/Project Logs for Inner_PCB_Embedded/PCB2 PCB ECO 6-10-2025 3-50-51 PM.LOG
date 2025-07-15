@@ -1,0 +1,7 @@
+Change Component Description : Designator=PW_S Old Description=39501-1002 Terminal Block, pcb Mount, recept, 2 Contacts, pin Rohs Compliant: Yes New Description=39501-1002 Terminal Block, pcb Mount, recept, 2 Contacts, pin Rohs Compliant: Yes |Molex 39501-1002
+Change Component Description : Designator=SW Old Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC New Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC | Switch Components RF1-1A-DC-2-R-1
+Added Component: Designator=P?(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet2 Member=Component P? Header 4

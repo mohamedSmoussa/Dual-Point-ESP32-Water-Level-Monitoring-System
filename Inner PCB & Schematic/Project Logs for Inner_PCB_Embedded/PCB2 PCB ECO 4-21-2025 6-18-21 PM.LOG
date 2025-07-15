@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetJ?_1 Pin=SW?-1
+Removed Member From Class: ClassName=Sheet2 Member=SW?
+Added Component: Designator=switch(SW_RF1-1A-DC-2-R-1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RF1-1A-DC-2-R-1/Switch+Components/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Switch Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RF1-1A-DC-2-R-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RF1-1A-DC-2-R-1/Switch+Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ?_1 Pin=switch-2
+Added Pin To Net: NetName=Netswitch_1 Pin=switch-1
+Added Pin To Net: NetName=Netswitch_1 Pin=U?-30
+Added Net: Name=Netswitch_1
+Added Member To Class: ClassName=Sheet2 Member=Component switch RF1-1A-DC-2-R-1

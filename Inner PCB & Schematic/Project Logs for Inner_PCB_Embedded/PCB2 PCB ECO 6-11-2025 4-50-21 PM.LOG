@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=PW_S-2
+Removed Pin From Net: NetName=NetC1_P Pin=SW-1
+Change Component Footprint: Designator=PW_S Old Footprint=FP-39501-1002-MFG New Footprint=HANDSON_KF301-2P
+Change Component Footprint: Designator=SW Old Footprint=SW_RF1-1A-DC-2-R-1 New Footprint=418117170901
+Change Component Comment : Designator=PW_S Old Comment=39501-1002 New Comment=KF301-2P
+Change Component Comment : Designator=SW Old Comment=RF1-1A-DC-2-R-1 New Comment=418117170901
+Change Managed Component Library Link : Designator=PW_S Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D10F07C6-B316-41F1-BC8C-894759C12C60 New ItemGUID= Old RevisionGUID=6995B8B6-D11C-4278-A9EB-657EEEF8AD44 New RevisionGUID=
+Change component parameters: Designator = "PW_S" ("PW_S"); Footprint = "FP-39501-1002-MFG"; UniqueID = "\YOAOQDIZ" ("\YOAOQDIZ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KF301-2P/Handson+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Handson Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "KF301-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KF301-2P/Handson+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW" ("SW"); Footprint = "SW_RF1-1A-DC-2-R-1"; UniqueID = "\FBNVMQKK" ("\FBNVMQKK")
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Flat Type"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Dip Switches"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/418117170901?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/418117170901?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "418117170901"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WS-DITV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Poles"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operation Force"; Value = "800g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current Non-Switching"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current Switching"; Value = "25mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage Non-Switching"; Value = "50VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage Switching"; Value = "24VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PW_S-1
+Added Pin To Net: NetName=NetC1_P Pin=SW-2
+Added Pin To Net: NetName=NetPW_S_2 Pin=PW_S-2
+Added Pin To Net: NetName=NetPW_S_2 Pin=SW-1
+Added Net: Name=NetPW_S_2

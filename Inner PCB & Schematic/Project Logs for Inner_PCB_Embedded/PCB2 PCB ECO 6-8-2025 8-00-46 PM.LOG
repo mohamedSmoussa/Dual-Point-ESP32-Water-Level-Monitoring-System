@@ -1,0 +1,4 @@
+Change Component Description : Designator=Power Old Description=39501-1002 Terminal Block, pcb Mount, recept, 2 Contacts, pin Rohs Compliant: Yes New Description=39501-1002 Terminal Block, pcb Mount, recept, 2 Contacts, pin Rohs Compliant: Yes |Molex 39501-1002
+Change Component Description : Designator=switch Old Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC New Description=Switch, Mini Rocker, 2P SPST OFF-ON, Red w/ Print, VDC | Switch Components RF1-1A-DC-2-R-1
+Change Net Name : Old Net Name=NetESP-32_9 New Net Name=sig echo
+Added Member To Class: ClassName=Sheet2 Member=Component switch RF1-1A-DC-2-R-1

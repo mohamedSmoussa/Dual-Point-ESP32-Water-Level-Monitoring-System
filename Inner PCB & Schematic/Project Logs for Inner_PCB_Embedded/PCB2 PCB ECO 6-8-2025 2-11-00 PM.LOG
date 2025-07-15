@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Netsensor_1 Pin=ESP32-1
+Removed Pin From Net: NetName=GND1 Pin=ESP32-2
+Removed Pin From Net: NetName=Netsensor_3 Pin=ESP32-9
+Added Component: Designator=U?(MODULE_ESP32_DEVKIT_V1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Do it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Netsensor_1 Pin=U?-1
+Added Pin To Net: NetName=GND1 Pin=U?-2
+Added Pin To Net: NetName=Netsensor_3 Pin=U?-9
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetPower_1
+Added Pin To Net: NetName=pow_in Pin=switch-1
+Added Pin To Net: NetName=pow_in Pin=U?-30
+Added Net: Name=pow_in
+Added Pin To Net: NetName=pow_sensor_in Pin=Sensor-4
+Added Pin To Net: NetName=pow_sensor_in Pin=U?-29
+Added Net: Name=pow_sensor_in
+Added Pin To Net: NetName=sig_trig Pin=Sensor-2
+Added Pin To Net: NetName=sig_trig Pin=U?-8
+Added Net: Name=sig_trig
+Added Member To Class: ClassName=Sheet2 Member=Component sensor HC-SR04
+Added Member To Class: ClassName=Sheet2 Member=Component U? ESP32-DEVKIT-V1

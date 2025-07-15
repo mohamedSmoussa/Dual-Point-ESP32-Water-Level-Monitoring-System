@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=ESP-32-2
+Removed Pin From Net: NetName=GND Pin=Sensor-4
+Added Pin To Net: NetName=GND1 Pin=ESP-32-2
+Added Pin To Net: NetName=GND1 Pin=Sensor-4
+Added Net: Name=GND1

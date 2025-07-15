@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=IN_Coil NewDesignator=Coil
+Change Component Designator: OldDesignator=Power NewDesignator=PW_S
+Change Component Designator: OldDesignator=switch NewDesignator=SW
+Change Component Designator: OldDesignator=Test-led NewDesignator=LED1
+Change Component Designator: OldDesignator=Test_res NewDesignator=Res1
+Change Component Designator: OldDesignator=Volt-REG NewDesignator=REG
+Change Net Name : Old Net Name=NetIN_Coil_1 New Net Name=NetCoil_1
+Change Net Name : Old Net Name=NetPower_1 New Net Name=NetPW_S_1
+Change Net Name : Old Net Name=NetTest-led_1 New Net Name=NetLED1_1

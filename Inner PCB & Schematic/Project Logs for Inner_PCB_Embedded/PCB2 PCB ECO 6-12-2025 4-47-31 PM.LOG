@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Removed Member From Class: ClassName=Sheet2 Member=LED1
+Added Component: Designator=LED(LED_WP7113ID)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WP7113ID/Kingbright/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113ID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/WP7113ID/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113ID/Kingbright/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED-C
+Added Pin To Net: NetName=NetLED_A Pin=LED-A
+Added Pin To Net: NetName=NetLED_A Pin=Res1-2
+Added Net: Name=NetLED_A
+Added Member To Class: ClassName=Sheet2 Member=Component L1 B82145A1105J000
+Added Member To Class: ClassName=Sheet2 Member=Component LED WP7113ID

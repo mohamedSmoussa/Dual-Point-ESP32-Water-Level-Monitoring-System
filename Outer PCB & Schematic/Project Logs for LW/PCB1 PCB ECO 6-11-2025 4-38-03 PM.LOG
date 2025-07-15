@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AGND Pin=C2-N
+Removed Pin From Net: NetName=+5V Pin=C2-P
+Removed Pin From Net: NetName=AGND Pin=C4-N
+Removed Pin From Net: NetName=+4.2V Pin=C4-P
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Removed Member From Class: ClassName=Sheet1 Member=C5
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
