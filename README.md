@@ -1,6 +1,8 @@
 # Dual-Point-ESP32-Water-Level-Monitoring-System
  ESP32-based water level monitoring system with dual points (inner &amp; outer), peer-to-peer ESP-NOW communication, and GSM (SIM800L) connectivity to a middle server and final glitch server. Includes PCB designs, schematics, and code.
- 🌊 ESP32 Dual-Point Water Level Monitoring System
+ 
+ 
+ ###🌊 ESP32 Dual-Point Water Level Monitoring System
 
 This project is a complete water level monitoring solution using ESP32 microcontrollers, ultrasonic sensors, and a SIM800L GSM module. The system monitors water levels at two different points (inner and outer), communicates locally using ESP-NOW, and sends the data remotely via GSM to a middle server, which then forwards it to a Glitch server for visualization.
 
